@@ -1,0 +1,2 @@
+# basiccode
+practicing 
